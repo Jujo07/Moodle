@@ -18,6 +18,7 @@ Ahora podemos modificar nuestra cuenta, podremos modificar el nombre, la foto de
 
 
 Una vez creada y si hemos seguidos todos los pasos deberiamos ser Admins y poder crear cursos a nuestro gusto
+
 A continuación una foto de los dos cursos que he creado como ejmeplo para este paso
 
 ![imatge](https://github.com/user-attachments/assets/818a6e8d-298b-4655-b831-c4ea06831f58)
