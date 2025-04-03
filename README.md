@@ -22,3 +22,6 @@ Una vez creada y si hemos seguidos todos los pasos deberiamos ser Admins y poder
 A continuación una foto de los dos cursos que he creado como ejmeplo para este paso
 
 ![imatge](https://github.com/user-attachments/assets/818a6e8d-298b-4655-b831-c4ea06831f58)
+
+A continuació crearem 10 alumnes
+
