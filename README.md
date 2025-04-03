@@ -44,7 +44,7 @@ A continuación una foto de los dos cursos que he creado como ejmeplo para este 
 
 ![imatge](https://github.com/user-attachments/assets/818a6e8d-298b-4655-b831-c4ea06831f58)
 
-A continuació crearem 10 alumnes
+A continuació crearemos 10 alumnos
 
 ![imatge](https://github.com/user-attachments/assets/b50027ef-4bb7-4830-b374-a904799bc640)
 ![imatge](https://github.com/user-attachments/assets/61966638-8597-474c-965f-f73a64d53c39)
@@ -53,7 +53,7 @@ A continuación matricularemos a los alumnos en el curso que nosotros veamos opu
 ![imatge](https://github.com/user-attachments/assets/9ab11b74-ec8c-4236-aca6-e0302f6593ee)
 ![imatge](https://github.com/user-attachments/assets/f53aa735-f443-41ff-bfea-09811d8b8c9e)
 
-A continuación hareamos que en el curso A no se puee inscribirse
+A continuación haremos que en el curso A no se puee inscribirse
 
 ![Captura de pantalla de 2025-04-03 08-30-37](https://github.com/user-attachments/assets/2e4dc398-2703-491f-9e29-41459c988d95)
 
